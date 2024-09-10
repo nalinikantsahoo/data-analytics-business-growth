@@ -1,0 +1,696 @@
+region,product,product_sub_category,product_category,apq
+America,2F0001-1,ICON,Mobile,"5,000"
+America,000001-1,TV,Home Appliance,"11,692"
+America,010001-1,Refrigerator,Home Appliance,600
+America,020001-1,Mixer,Home Appliance,264
+America,020001-1,Refrigerator,Home Appliance,"1,600"
+America,020001-1,Viva,Mobile,
+America,030001-1,Blender,Home Appliance,"10,000"
+America,030001-1,Refrigerator,Home Appliance,"1,000"
+America,030001-1,TV,Home Appliance,"80,000"
+America,040001-1,Refrigerator,Home Appliance,"16,000"
+America,040001-1,TV,Home Appliance,"44,000"
+America,040001-1,Washing Machine,Home Appliance,672
+America,050001-1,Refrigerator,Home Appliance,"10,000"
+America,050001-1,TV,Home Appliance,"90,000"
+America,060001-1,Appul,Mobile,350
+America,060001-1,Hob,Home Appliance,240
+America,060001-1,Refrigerator,Home Appliance,"16,000"
+America,060001-1,Smart Light,Electronic Device,"1,512"
+America,070001-1,Appul,Mobile,300
+America,070001-1,Refrigerator,Home Appliance,"3,000"
+America,070001-1,TV,Home Appliance,"58,000"
+America,070001-1,Washing Machine,Home Appliance,240
+America,080001-1,Appul,Mobile,"5,000"
+America,080001-1,Refrigerator,Home Appliance,"40,000"
+America,080001-1,TV,Home Appliance,"40,000"
+America,090001-1,Appul,Mobile,"5,000"
+America,090001-1,Refrigerator,Home Appliance,"14,000"
+America,100001-1,Appul,Mobile,"5,000"
+America,100001-1,TV,Home Appliance,"33,000"
+America,100001-1,Washing Machine,Home Appliance,144
+America,110001-1,Refrigerator,Home Appliance,"8,000"
+America,110001-1,Washing Machine,Home Appliance,"1,200"
+America,120001-1,Appul,Mobile,"3,000"
+America,120001-1,Refrigerator,Home Appliance,"3,000"
+America,120001-1,TV,Home Appliance,"52,000"
+America,130001-1,Dish Washer,Home Appliance,400
+America,130001-1,Sunma,Mobile,"5,000"
+America,140001-1,Appul,Mobile,"2,500"
+America,140001-1,Refrigerator,Home Appliance,"1,080"
+America,140001-1,TV,Home Appliance,"13,500"
+America,150001-1,Appul,Mobile,"3,000"
+America,150001-1,Refrigerator,Home Appliance,"12,000"
+America,160001-1,Refrigerator,Home Appliance,"1,60,000"
+America,170001-1,Appul,Mobile,"35,000"
+America,170001-1,Refrigerator,Home Appliance,"2,000"
+America,170001-1,Toaster,Home Appliance,"2,000"
+America,170001-1,TV,Home Appliance,"26,000"
+America,190001-1,Chimney,Home Appliance,"1,00,000"
+America,190001-1,Microwave,Home Appliance,"2,00,000"
+America,190001-1,Refrigerator,Home Appliance,"10,000"
+America,190001-1,TV,Home Appliance,"7,57,000"
+America,200001-1,Home Theater,Home Appliance,150
+America,200001-1,Microwave,Home Appliance,"2,00,000"
+America,200001-1,Refrigerator,Home Appliance,"10,000"
+America,200001-1,TV,Home Appliance,"40,000"
+America,210001-1,Headphone,Electronic Device,"15,000"
+America,210001-1,Microwave,Home Appliance,"50,000"
+America,210001-1,Refrigerator,Home Appliance,"8,000"
+America,210001-1,TV,Home Appliance,"62,000"
+America,220001-1,Microwave,Home Appliance,"50,000"
+America,220001-1,Refrigerator,Home Appliance,"5,000"
+America,220001-1,Toaster,Home Appliance,"2,000"
+America,230001-1,Refrigerator,Home Appliance,"20,000"
+America,230001-1,Sewing Machine,Electronic Device,320
+America,230001-1,TV,Home Appliance,"15,000"
+America,230001-1,Washing Machine,Home Appliance,135
+America,240001-1,Microwave,Home Appliance,"4,000"
+America,240001-1,Refrigerator,Home Appliance,"1,200"
+America,240001-1,TV,Home Appliance,"30,000"
+America,250001-1,Refrigerator,Home Appliance,800
+America,250001-1,TV,Home Appliance,"34,000"
+America,260001-1,Dish Washer,Home Appliance,"12,000"
+America,260001-1,Home Theater,Home Appliance,480
+America,260001-1,Iron,Electronic Device,400
+America,260001-1,Refrigerator,Home Appliance,"6,000"
+America,270001-1,Iron,Electronic Device,180
+America,270001-1,Refrigerator,Home Appliance,"3,003"
+America,280001-1,Refrigerator,Home Appliance,"8,000"
+America,280001-1,TV,Home Appliance,"22,500"
+America,290001-1,Refrigerator,Home Appliance,"10,000"
+America,290001-1,Washing Machine,Home Appliance,72
+America,300001-1,Home Theater,Home Appliance,294
+America,300001-1,Refrigerator,Home Appliance,"2,500"
+America,310001-1,Hob,Home Appliance,240
+America,310001-1,Iron,Electronic Device,200
+America,310001-1,Mixer,Home Appliance,160
+America,310001-1,Refrigerator,Home Appliance,"4,500"
+America,320001-1,Iron,Electronic Device,400
+America,320001-1,Refrigerator,Home Appliance,"10,000"
+America,320001-1,TV,Home Appliance,"24,000"
+America,330001-1,Home Theater,Home Appliance,300
+America,330001-1,Refrigerator,Home Appliance,"30,000"
+America,330001-1,TV,Home Appliance,"24,000"
+America,340001-1,Refrigerator,Home Appliance,"1,60,000"
+America,350001-1,Refrigerator,Home Appliance,"2,000"
+America,360001-1,Dish Washer,Home Appliance,400
+America,360001-1,Refrigerator,Home Appliance,"4,000"
+America,360001-1,TV,Home Appliance,"28,000"
+America,370001-1,Refrigerator,Home Appliance,"1,00,000"
+America,380001-1,Refrigerator,Home Appliance,"2,000"
+America,390001-1,Food Processor,Home Appliance,700
+America,390001-1,Refrigerator,Home Appliance,"1,600"
+America,390001-1,TV,Home Appliance,"25,000"
+America,400001-1,TV,Home Appliance,"13,500"
+America,410001-1,Dish Washer,Home Appliance,"1,080"
+America,410001-1,Refrigerator,Home Appliance,"6,000"
+America,410001-1,TV,Home Appliance,"12,000"
+America,420001-1,TV,Home Appliance,"20,000"
+America,430001-1,Washing Machine,Home Appliance,210
+America,440001-1,Refrigerator,Home Appliance,900
+America,450001-1,Refrigerator,Home Appliance,700
+America,450001-1,TV,Home Appliance,"30,000"
+America,460001-1,Refrigerator,Home Appliance,"2,000"
+America,460001-1,TV,Home Appliance,"44,000"
+America,470001-1,TV,Home Appliance,"9,900"
+America,480001-1,Hob,Home Appliance,"9,000"
+America,480001-1,TV,Home Appliance,"9,000"
+America,480001-1,Washing Machine,Home Appliance,665
+America,500001-1,Food Processor,Home Appliance,50
+America,500001-1,Refrigerator,Home Appliance,"60,000"
+America,500001-1,TV,Home Appliance,"15,000"
+America,510001-1,Refrigerator,Home Appliance,"10,000"
+America,510001-1,Smart Light,Electronic Device,"2,700"
+America,510001-1,TV,Home Appliance,"1,800"
+America,520001-1,Hob,Home Appliance,150
+America,520001-1,Iron,Electronic Device,
+America,520001-1,Refrigerator,Home Appliance,"2,800"
+America,520001-1,Smart Light,Electronic Device,"1,250"
+America,520001-1,TV,Home Appliance,"1,000"
+America,530001-1,Refrigerator,Home Appliance,"4,000"
+America,530001-1,Smart Light,Electronic Device,"1,20,000"
+America,530001-1,TV,Home Appliance,"1,200"
+America,550001-1,Refrigerator,Home Appliance,"1,600"
+America,550001-1,Washing Machine,Home Appliance,50
+America,580001-1,Refrigerator,Home Appliance,"12,000"
+America,580001-1,TV,Home Appliance,"40,000"
+America,590001-1,Dryer,Electronic Device,605
+America,600001-1,TV,Home Appliance,"13,500"
+America,610001-1,TV,Home Appliance,"40,000"
+America,630001-1,Smart Light,Electronic Device,"60,000"
+America,640001-1,Smart Light,Electronic Device,"25,000"
+America,650001-1,Smart Light,Electronic Device,"1,600"
+America,650001-1,TV,Home Appliance,"10,500"
+America,660001-1,TV,Home Appliance,"20,000"
+America,670001-1,Smart Light,Electronic Device,"12,000"
+America,670001-1,TV,Home Appliance,"21,000"
+America,680001-1,TV,Home Appliance,"68,000"
+America,700001-1,Refrigerator,Home Appliance,"20,000"
+America,700001-1,TV,Home Appliance,"5,100"
+America,710001-1,Home Theater,Home Appliance,200
+America,710001-1,Refrigerator,Home Appliance,500
+America,710001-1,TV,Home Appliance,"28,000"
+America,710001-1,Washing Machine,Home Appliance,240
+America,730001-1,Refrigerator,Home Appliance,"1,000"
+America,730001-1,Washing Machine,Home Appliance,40
+America,740001-1,Refrigerator,Home Appliance,"1,000"
+America,750001-1,Refrigerator,Home Appliance,300
+America,760001-1,Home Theater,Home Appliance,
+America,760001-1,Refrigerator,Home Appliance,
+America,770001-1,Refrigerator,Home Appliance,"2,400"
+America,780001-1,Refrigerator,Home Appliance,"10,000"
+America,790001-1,Washing Machine,Home Appliance,200
+America,800001-1,Sunma,Mobile,"10,000"
+America,810001-1,Refrigerator,Home Appliance,"1,056"
+America,820001-1,Refrigerator,Home Appliance,720
+America,830001-1,Appul,Mobile,"25,000"
+America,830001-1,Washing Machine,Home Appliance,168
+America,850001-1,Washing Machine,Home Appliance,"2,232"
+America,860001-1,Refrigerator,Home Appliance,240
+America,860001-1,TV,Home Appliance,"24,000"
+America,860001-1,Washing Machine,Home Appliance,480
+America,870001-1,Washing Machine,Home Appliance,"1,012"
+America,880001-1,Refrigerator,Home Appliance,"10,000"
+America,890001-1,Refrigerator,Home Appliance,624
+America,910001-1,Refrigerator,Home Appliance,400
+America,920001-1,Food Processor,Home Appliance,50
+America,920001-1,TV,Home Appliance,"12,000"
+America,930001-1,Refrigerator,Home Appliance,"6,400"
+America,930001-1,Sewing Machine,Electronic Device,125
+America,940001-1,Appul,Mobile,"3,000"
+America,940001-1,Refrigerator,Home Appliance,"1,320"
+America,950001-1,TV,Home Appliance,"1,000"
+America,960001-1,Iron,Electronic Device,400
+America,960001-1,Refrigerator,Home Appliance,"1,000"
+America,970001-1,Hob,Home Appliance,240
+America,970001-1,Refrigerator,Home Appliance,"2,500"
+America,980001-1,Hob,Home Appliance,160
+America,980001-1,Mixer,Home Appliance,"3,000"
+America,980001-1,Refrigerator,Home Appliance,"3,000"
+America,990001-1,Refrigerator,Home Appliance,"40,000"
+Asia Pacific,2B0001-1,Appul,Mobile,336
+Asia Pacific,2D0001-1,Appul,Mobile,168
+Asia Pacific,2H0001-1,Appul,Mobile,
+Asia Pacific,000001-1,Refrigerator,Home Appliance,400
+Asia Pacific,010001-1,Dish Washer,Home Appliance,704
+Asia Pacific,010001-1,Refrigerator,Home Appliance,"1,680"
+Asia Pacific,020001-1,Dish Washer,Home Appliance,"24,960"
+Asia Pacific,020001-1,Mixer,Home Appliance,"1,000"
+Asia Pacific,020001-1,Refrigerator,Home Appliance,700
+Asia Pacific,020001-1,Viva,Mobile,
+Asia Pacific,030001-1,Blender,Home Appliance,"10,000"
+Asia Pacific,030001-1,Refrigerator,Home Appliance,"2,000"
+Asia Pacific,030001-1,TV,Home Appliance,"80,000"
+Asia Pacific,040001-1,Refrigerator,Home Appliance,"30,000"
+Asia Pacific,040001-1,TV,Home Appliance,"44,000"
+Asia Pacific,040001-1,Washing Machine,Home Appliance,770
+Asia Pacific,050001-1,Hob,Home Appliance,300
+Asia Pacific,050001-1,Refrigerator,Home Appliance,"40,000"
+Asia Pacific,050001-1,TV,Home Appliance,"90,000"
+Asia Pacific,060001-1,Appul,Mobile,"20,000"
+Asia Pacific,060001-1,Hob,Home Appliance,"1,000"
+Asia Pacific,060001-1,Refrigerator,Home Appliance,"16,000"
+Asia Pacific,070001-1,Appul,Mobile,"12,000"
+Asia Pacific,070001-1,Refrigerator,Home Appliance,"5,000"
+Asia Pacific,070001-1,Toaster,Home Appliance,600
+Asia Pacific,070001-1,TV,Home Appliance,"1,50,000"
+Asia Pacific,080001-1,Appul,Mobile,800
+Asia Pacific,080001-1,Refrigerator,Home Appliance,"80,000"
+Asia Pacific,080001-1,TV,Home Appliance,"40,000"
+Asia Pacific,090001-1,Appul,Mobile,"5,000"
+Asia Pacific,090001-1,Refrigerator,Home Appliance,"14,000"
+Asia Pacific,090001-1,Toaster,Home Appliance,525
+Asia Pacific,100001-1,Appul,Mobile,"10,000"
+Asia Pacific,100001-1,TV,Home Appliance,"33,000"
+Asia Pacific,100001-1,Washing Machine,Home Appliance,"3,055"
+Asia Pacific,110001-1,Appul,Mobile,"3,000"
+Asia Pacific,110001-1,Refrigerator,Home Appliance,"8,000"
+Asia Pacific,120001-1,Appul,Mobile,"5,000"
+Asia Pacific,120001-1,Refrigerator,Home Appliance,"3,000"
+Asia Pacific,120001-1,TV,Home Appliance,"52,000"
+Asia Pacific,130001-1,Dish Washer,Home Appliance,400
+Asia Pacific,130001-1,Sunma,Mobile,"4,000"
+Asia Pacific,130001-1,Washing Machine,Home Appliance,120
+Asia Pacific,140001-1,Refrigerator,Home Appliance,"1,080"
+Asia Pacific,140001-1,TV,Home Appliance,"13,500"
+Asia Pacific,150001-1,Appul,Mobile,"4,000"
+Asia Pacific,150001-1,Refrigerator,Home Appliance,"16,000"
+Asia Pacific,150001-1,Sewing Machine,Electronic Device,300
+Asia Pacific,160001-1,Refrigerator,Home Appliance,"1,60,000"
+Asia Pacific,170001-1,Appul,Mobile,"35,000"
+Asia Pacific,170001-1,Refrigerator,Home Appliance,"4,000"
+Asia Pacific,170001-1,Toaster,Home Appliance,"2,000"
+Asia Pacific,170001-1,TV,Home Appliance,"48,000"
+Asia Pacific,180001-1,Headphone,Electronic Device,"1,500"
+Asia Pacific,180001-1,Microwave,Home Appliance,"2,00,000"
+Asia Pacific,180001-1,Smart Light,Electronic Device,"90,000"
+Asia Pacific,180001-1,Toaster,Home Appliance,990
+Asia Pacific,190001-1,Chimney,Home Appliance,"2,00,000"
+Asia Pacific,190001-1,Microwave,Home Appliance,"2,00,000"
+Asia Pacific,190001-1,Refrigerator,Home Appliance,"10,000"
+Asia Pacific,190001-1,Smart Light,Electronic Device,"1,200"
+Asia Pacific,190001-1,TV,Home Appliance,"18,00,000"
+Asia Pacific,200001-1,Home Theater,Home Appliance,150
+Asia Pacific,200001-1,Microwave,Home Appliance,"2,00,000"
+Asia Pacific,200001-1,Refrigerator,Home Appliance,"10,000"
+Asia Pacific,200001-1,Smart Light,Electronic Device,"90,000"
+Asia Pacific,200001-1,TV,Home Appliance,"40,000"
+Asia Pacific,210001-1,Headphone,Electronic Device,"15,000"
+Asia Pacific,210001-1,Hob,Home Appliance,250
+Asia Pacific,210001-1,Microwave,Home Appliance,"80,000"
+Asia Pacific,210001-1,Refrigerator,Home Appliance,"11,000"
+Asia Pacific,210001-1,TV,Home Appliance,"76,000"
+Asia Pacific,220001-1,Headphone,Electronic Device,"2,000"
+Asia Pacific,220001-1,Microwave,Home Appliance,"30,000"
+Asia Pacific,220001-1,Refrigerator,Home Appliance,"5,000"
+Asia Pacific,220001-1,Toaster,Home Appliance,"2,000"
+Asia Pacific,220001-1,TV,Home Appliance,"80,000"
+Asia Pacific,230001-1,Microwave,Home Appliance,"8,000"
+Asia Pacific,230001-1,Refrigerator,Home Appliance,"20,000"
+Asia Pacific,230001-1,Sewing Machine,Electronic Device,300
+Asia Pacific,230001-1,TV,Home Appliance,"15,000"
+Asia Pacific,230001-1,Washing Machine,Home Appliance,648
+Asia Pacific,240001-1,Microwave,Home Appliance,"4,000"
+Asia Pacific,240001-1,Refrigerator,Home Appliance,"4,750"
+Asia Pacific,240001-1,TV,Home Appliance,"30,000"
+Asia Pacific,250001-1,Appul,Mobile,"2,500"
+Asia Pacific,250001-1,Refrigerator,Home Appliance,"5,000"
+Asia Pacific,250001-1,TV,Home Appliance,"48,000"
+Asia Pacific,260001-1,Appul,Mobile,"2,500"
+Asia Pacific,260001-1,Dish Washer,Home Appliance,"40,000"
+Asia Pacific,260001-1,Home Theater,Home Appliance,480
+Asia Pacific,260001-1,Iron,Electronic Device,400
+Asia Pacific,260001-1,Refrigerator,Home Appliance,"6,000"
+Asia Pacific,260001-1,Roleme,Mobile,18
+Asia Pacific,260001-1,TV,Home Appliance,"5,400"
+Asia Pacific,270001-1,Appul,Mobile,"9,000"
+Asia Pacific,270001-1,Iron,Electronic Device,150
+Asia Pacific,270001-1,Refrigerator,Home Appliance,"2,400"
+Asia Pacific,280001-1,Refrigerator,Home Appliance,"50,000"
+Asia Pacific,280001-1,TV,Home Appliance,"22,500"
+Asia Pacific,290001-1,Refrigerator,Home Appliance,"1,60,000"
+Asia Pacific,290001-1,Washing Machine,Home Appliance,360
+Asia Pacific,300001-1,Home Theater,Home Appliance,294
+Asia Pacific,300001-1,Iron,Electronic Device,"1,900"
+Asia Pacific,300001-1,Refrigerator,Home Appliance,"2,500"
+Asia Pacific,310001-1,Hob,Home Appliance,500
+Asia Pacific,310001-1,Iron,Electronic Device,250
+Asia Pacific,310001-1,Mixer,Home Appliance,256
+Asia Pacific,310001-1,Refrigerator,Home Appliance,"5,000"
+Asia Pacific,320001-1,Hob,Home Appliance,"30,000"
+Asia Pacific,320001-1,Iron,Electronic Device,200
+Asia Pacific,320001-1,Refrigerator,Home Appliance,"10,000"
+Asia Pacific,320001-1,TV,Home Appliance,"24,000"
+Asia Pacific,330001-1,Hob,Home Appliance,200
+Asia Pacific,330001-1,Home Theater,Home Appliance,300
+Asia Pacific,330001-1,Mixer,Home Appliance,"12,000"
+Asia Pacific,330001-1,Refrigerator,Home Appliance,"30,000"
+Asia Pacific,330001-1,TV,Home Appliance,"24,000"
+Asia Pacific,340001-1,Refrigerator,Home Appliance,"1,60,000"
+Asia Pacific,350001-1,Refrigerator,Home Appliance,"9,000"
+Asia Pacific,360001-1,Dish Washer,Home Appliance,900
+Asia Pacific,360001-1,Refrigerator,Home Appliance,"40,000"
+Asia Pacific,360001-1,TV,Home Appliance,"28,000"
+Asia Pacific,370001-1,Refrigerator,Home Appliance,"1,00,000"
+Asia Pacific,380001-1,Refrigerator,Home Appliance,"2,000"
+Asia Pacific,380001-1,TV,Home Appliance,"6,00,000"
+Asia Pacific,390001-1,Food Processor,Home Appliance,"1,000"
+Asia Pacific,390001-1,Refrigerator,Home Appliance,"1,600"
+Asia Pacific,390001-1,TV,Home Appliance,"13,500"
+Asia Pacific,400001-1,TV,Home Appliance,"14,000"
+Asia Pacific,410001-1,Dish Washer,Home Appliance,"30,000"
+Asia Pacific,410001-1,Refrigerator,Home Appliance,"1,250"
+Asia Pacific,410001-1,TV,Home Appliance,"16,000"
+Asia Pacific,420001-1,TV,Home Appliance,"20,000"
+Asia Pacific,420001-1,Washing Machine,Home Appliance,"2,000"
+Asia Pacific,440001-1,Refrigerator,Home Appliance,900
+Asia Pacific,440001-1,TV,Home Appliance,"58,000"
+Asia Pacific,450001-1,TV,Home Appliance,"40,000"
+Asia Pacific,460001-1,Refrigerator,Home Appliance,"2,400"
+Asia Pacific,460001-1,TV,Home Appliance,"44,000"
+Asia Pacific,470001-1,Refrigerator,Home Appliance,"2,000"
+Asia Pacific,470001-1,TV,Home Appliance,"24,000"
+Asia Pacific,480001-1,Hob,Home Appliance,"1,500"
+Asia Pacific,480001-1,TV,Home Appliance,"16,500"
+Asia Pacific,480001-1,Washing Machine,Home Appliance,"1,560"
+Asia Pacific,490001-1,Food Processor,Home Appliance,24
+Asia Pacific,490001-1,Hob,Home Appliance,"4,000"
+Asia Pacific,490001-1,Washing Machine,Home Appliance,540
+Asia Pacific,500001-1,Food Processor,Home Appliance,50
+Asia Pacific,500001-1,Sewing Machine,Electronic Device,150
+Asia Pacific,500001-1,TV,Home Appliance,"15,000"
+Asia Pacific,510001-1,Dish Washer,Home Appliance,"1,080"
+Asia Pacific,510001-1,Refrigerator,Home Appliance,"10,000"
+Asia Pacific,510001-1,Sewing Machine,Electronic Device,100
+Asia Pacific,510001-1,Smart Light,Electronic Device,"2,700"
+Asia Pacific,510001-1,TV,Home Appliance,"1,340"
+Asia Pacific,520001-1,Refrigerator,Home Appliance,"2,800"
+Asia Pacific,520001-1,Smart Light,Electronic Device,920
+Asia Pacific,520001-1,TV,Home Appliance,"1,200"
+Asia Pacific,520001-1,Washing Machine,Home Appliance,80
+Asia Pacific,530001-1,Refrigerator,Home Appliance,"4,000"
+Asia Pacific,530001-1,Smart Light,Electronic Device,"1,20,000"
+Asia Pacific,530001-1,TV,Home Appliance,"1,200"
+Asia Pacific,540001-1,Refrigerator,Home Appliance,"10,000"
+Asia Pacific,550001-1,Dish Washer,Home Appliance,160
+Asia Pacific,550001-1,Refrigerator,Home Appliance,"8,000"
+Asia Pacific,560001-1,Washing Machine,Home Appliance,750
+Asia Pacific,570001-1,Refrigerator,Home Appliance,900
+Asia Pacific,570001-1,Smart Light,Electronic Device,40
+Asia Pacific,580001-1,Mixer,Home Appliance,
+Asia Pacific,580001-1,Refrigerator,Home Appliance,"5,000"
+Asia Pacific,580001-1,TV,Home Appliance,"40,000"
+Asia Pacific,590001-1,Dryer,Electronic Device,"3,000"
+Asia Pacific,600001-1,Dryer,Electronic Device,"5,000"
+Asia Pacific,600001-1,TV,Home Appliance,"13,500"
+Asia Pacific,600001-1,Washing Machine,Home Appliance,490
+Asia Pacific,610001-1,Headphone,Electronic Device,"32,000"
+Asia Pacific,610001-1,Refrigerator,Home Appliance,400
+Asia Pacific,610001-1,TV,Home Appliance,"40,000"
+Asia Pacific,620001-1,Mixer,Home Appliance,65
+Asia Pacific,630001-1,Headphone,Electronic Device,"3,000"
+Asia Pacific,630001-1,Roleme,Mobile,392
+Asia Pacific,630001-1,Smart Light,Electronic Device,"60,000"
+Asia Pacific,630001-1,Washing Machine,Home Appliance,"24,000"
+Asia Pacific,640001-1,Smart Light,Electronic Device,"20,000"
+Asia Pacific,640001-1,Washing Machine,Home Appliance,"3,600"
+Asia Pacific,650001-1,Refrigerator,Home Appliance,180
+Asia Pacific,650001-1,Smart Light,Electronic Device,"2,000"
+Asia Pacific,650001-1,TV,Home Appliance,"24,000"
+Asia Pacific,650001-1,Washing Machine,Home Appliance,390
+Asia Pacific,660001-1,Smart Light,Electronic Device,"62,210"
+Asia Pacific,660001-1,TV,Home Appliance,"30,00,000"
+Asia Pacific,660001-1,Washing Machine,Home Appliance,"2,760"
+Asia Pacific,670001-1,Refrigerator,Home Appliance,"1,600"
+Asia Pacific,670001-1,Smart Light,Electronic Device,"12,000"
+Asia Pacific,670001-1,TV,Home Appliance,"48,000"
+Asia Pacific,680001-1,Headphone,Electronic Device,480
+Asia Pacific,680001-1,TV,Home Appliance,"68,000"
+Asia Pacific,690001-1,Refrigerator,Home Appliance,400
+Asia Pacific,700001-1,Refrigerator,Home Appliance,"10,000"
+Asia Pacific,700001-1,TV,Home Appliance,"6,000"
+Asia Pacific,700001-1,Washing Machine,Home Appliance,350
+Asia Pacific,710001-1,Headphone,Electronic Device,800
+Asia Pacific,710001-1,Refrigerator,Home Appliance,400
+Asia Pacific,710001-1,TV,Home Appliance,"28,000"
+Asia Pacific,720001-1,Headphone,Electronic Device,760
+Asia Pacific,730001-1,Refrigerator,Home Appliance,"30,000"
+Asia Pacific,740001-1,Refrigerator,Home Appliance,"10,000"
+Asia Pacific,750001-1,Refrigerator,Home Appliance,"2,400"
+Asia Pacific,760001-1,Home Theater,Home Appliance,500
+Asia Pacific,760001-1,Refrigerator,Home Appliance,396
+Asia Pacific,770001-1,Refrigerator,Home Appliance,"2,400"
+Asia Pacific,770001-1,TV,Home Appliance,"4,000"
+Asia Pacific,780001-1,Refrigerator,Home Appliance,"10,000"
+Asia Pacific,780001-1,TV,Home Appliance,"1,700"
+Asia Pacific,790001-1,Washing Machine,Home Appliance,"1,280"
+Asia Pacific,800001-1,Sunma,Mobile,"15,000"
+Asia Pacific,810001-1,Refrigerator,Home Appliance,"2,400"
+Asia Pacific,810001-1,Washing Machine,Home Appliance,48
+Asia Pacific,820001-1,Appul,Mobile,500
+Asia Pacific,820001-1,Refrigerator,Home Appliance,"2,800"
+Asia Pacific,820001-1,Washing Machine,Home Appliance,110
+Asia Pacific,830001-1,Appul,Mobile,"25,000"
+Asia Pacific,830001-1,Washing Machine,Home Appliance,"2,808"
+Asia Pacific,850001-1,Washing Machine,Home Appliance,"4,200"
+Asia Pacific,860001-1,Refrigerator,Home Appliance,200
+Asia Pacific,860001-1,TV,Home Appliance,"24,000"
+Asia Pacific,860001-1,Washing Machine,Home Appliance,630
+Asia Pacific,870001-1,Washing Machine,Home Appliance,160
+Asia Pacific,880001-1,Headphone,Electronic Device,"1,000"
+Asia Pacific,880001-1,Refrigerator,Home Appliance,"12,000"
+Asia Pacific,880001-1,Washing Machine,Home Appliance,160
+Asia Pacific,890001-1,Microwave,Home Appliance,"2,00,000"
+Asia Pacific,890001-1,Refrigerator,Home Appliance,"4,000"
+Asia Pacific,910001-1,Hob,Home Appliance,500
+Asia Pacific,910001-1,Refrigerator,Home Appliance,"5,000"
+Asia Pacific,910001-1,Sewing Machine,Electronic Device,100
+Asia Pacific,920001-1,Food Processor,Home Appliance,50
+Asia Pacific,920001-1,Hob,Home Appliance,60
+Asia Pacific,920001-1,TV,Home Appliance,"16,000"
+Asia Pacific,930001-1,Refrigerator,Home Appliance,"6,400"
+Asia Pacific,930001-1,Sewing Machine,Electronic Device,200
+Asia Pacific,940001-1,Appul,Mobile,"32,000"
+Asia Pacific,940001-1,Refrigerator,Home Appliance,"10,000"
+Asia Pacific,950001-1,Sewing Machine,Electronic Device,200
+Asia Pacific,950001-1,TV,Home Appliance,"6,000"
+Asia Pacific,960001-1,Iron,Electronic Device,200
+Asia Pacific,960001-1,Refrigerator,Home Appliance,"8,000"
+Asia Pacific,970001-1,Hob,Home Appliance,400
+Asia Pacific,970001-1,Refrigerator,Home Appliance,"40,000"
+Asia Pacific,980001-1,Hob,Home Appliance,150
+Asia Pacific,980001-1,Mixer,Home Appliance,"3,000"
+Asia Pacific,980001-1,Refrigerator,Home Appliance,"3,000"
+Asia Pacific,990001-1,Refrigerator,Home Appliance,"60,000"
+EMEA,2A0001-1,Sunsung,Mobile,
+EMEA,2C0001-1,Appul,Mobile,168
+EMEA,2D0001-1,Appul,Mobile,
+EMEA,2F0001-1,ICON,Mobile,"5,000"
+EMEA,010001-1,Refrigerator,Home Appliance,"2,000"
+EMEA,020001-1,Mixer,Home Appliance,"1,500"
+EMEA,020001-1,Refrigerator,Home Appliance,400
+EMEA,020001-1,Viva,Mobile,
+EMEA,020001-1,Washing Machine,Home Appliance,252
+EMEA,030001-1,Blender,Home Appliance,"4,000"
+EMEA,030001-1,Refrigerator,Home Appliance,"1,000"
+EMEA,030001-1,TV,Home Appliance,"80,000"
+EMEA,040001-1,Refrigerator,Home Appliance,"1,00,000"
+EMEA,040001-1,TV,Home Appliance,"44,000"
+EMEA,040001-1,Washing Machine,Home Appliance,"1,416"
+EMEA,050001-1,Hob,Home Appliance,540
+EMEA,050001-1,Refrigerator,Home Appliance,"18,000"
+EMEA,050001-1,TV,Home Appliance,"90,000"
+EMEA,060001-1,Appul,Mobile,"20,000"
+EMEA,060001-1,Hob,Home Appliance,800
+EMEA,060001-1,Refrigerator,Home Appliance,"16,000"
+EMEA,070001-1,Appul,Mobile,"12,000"
+EMEA,070001-1,Refrigerator,Home Appliance,"10,000"
+EMEA,070001-1,Toaster,Home Appliance,600
+EMEA,070001-1,TV,Home Appliance,"6,96,000"
+EMEA,080001-1,Appul,Mobile,800
+EMEA,080001-1,Refrigerator,Home Appliance,"3,000"
+EMEA,080001-1,Toaster,Home Appliance,600
+EMEA,080001-1,TV,Home Appliance,"40,000"
+EMEA,090001-1,Appul,Mobile,"6,000"
+EMEA,090001-1,Refrigerator,Home Appliance,"10,000"
+EMEA,090001-1,Toaster,Home Appliance,525
+EMEA,100001-1,Appul,Mobile,"65,000"
+EMEA,100001-1,TV,Home Appliance,"36,000"
+EMEA,100001-1,Washing Machine,Home Appliance,"2,350"
+EMEA,110001-1,Refrigerator,Home Appliance,"8,000"
+EMEA,120001-1,Appul,Mobile,"25,000"
+EMEA,120001-1,Refrigerator,Home Appliance,"3,000"
+EMEA,120001-1,TV,Home Appliance,"52,000"
+EMEA,130001-1,Sunma,Mobile,"5,00,020"
+EMEA,140001-1,Appul,Mobile,"2,500"
+EMEA,140001-1,Refrigerator,Home Appliance,"1,000"
+EMEA,140001-1,TV,Home Appliance,"24,000"
+EMEA,150001-1,Appul,Mobile,"3,400"
+EMEA,150001-1,Refrigerator,Home Appliance,"12,000"
+EMEA,150001-1,TV,Home Appliance,"1,50,000"
+EMEA,160001-1,Refrigerator,Home Appliance,"1,60,000"
+EMEA,170001-1,Appul,Mobile,"2,500"
+EMEA,170001-1,Home Theater,Home Appliance,700
+EMEA,170001-1,Refrigerator,Home Appliance,"5,000"
+EMEA,170001-1,TV,Home Appliance,"48,000"
+EMEA,180001-1,Lova,Mobile,
+EMEA,180001-1,Refrigerator,Home Appliance,
+EMEA,190001-1,Chimney,Home Appliance,"3,00,000"
+EMEA,190001-1,Microwave,Home Appliance,"2,00,000"
+EMEA,190001-1,Refrigerator,Home Appliance,"10,000"
+EMEA,190001-1,TV,Home Appliance,"6,96,000"
+EMEA,200001-1,Home Theater,Home Appliance,150
+EMEA,200001-1,Microwave,Home Appliance,"2,00,000"
+EMEA,200001-1,Refrigerator,Home Appliance,"42,000"
+EMEA,200001-1,Roleme,Mobile,20
+EMEA,200001-1,TV,Home Appliance,"40,000"
+EMEA,210001-1,Blender,Home Appliance,"1,500"
+EMEA,210001-1,Headphone,Electronic Device,"65,000"
+EMEA,210001-1,Hob,Home Appliance,200
+EMEA,210001-1,Microwave,Home Appliance,"50,000"
+EMEA,210001-1,Refrigerator,Home Appliance,"20,000"
+EMEA,220001-1,Headphone,Electronic Device,510
+EMEA,220001-1,Microwave,Home Appliance,"30,000"
+EMEA,220001-1,Refrigerator,Home Appliance,"5,000"
+EMEA,220001-1,Toaster,Home Appliance,"2,000"
+EMEA,230001-1,Microwave,Home Appliance,"8,000"
+EMEA,230001-1,Refrigerator,Home Appliance,"20,000"
+EMEA,230001-1,Sewing Machine,Electronic Device,400
+EMEA,230001-1,TV,Home Appliance,"16,000"
+EMEA,240001-1,Appul,Mobile,13
+EMEA,240001-1,Microwave,Home Appliance,"4,000"
+EMEA,240001-1,Refrigerator,Home Appliance,"4,750"
+EMEA,240001-1,Toaster,Home Appliance,504
+EMEA,240001-1,TV,Home Appliance,"30,000"
+EMEA,240001-1,Washing Machine,Home Appliance,64
+EMEA,250001-1,Lova,Mobile,40
+EMEA,250001-1,Refrigerator,Home Appliance,"9,000"
+EMEA,250001-1,TV,Home Appliance,"48,000"
+EMEA,260001-1,Appul,Mobile,"1,500"
+EMEA,260001-1,Dish Washer,Home Appliance,"80,000"
+EMEA,260001-1,Hob,Home Appliance,80
+EMEA,260001-1,Home Theater,Home Appliance,480
+EMEA,260001-1,Iron,Electronic Device,150
+EMEA,260001-1,Refrigerator,Home Appliance,"6,000"
+EMEA,260001-1,Roleme,Mobile,18
+EMEA,260001-1,TV,Home Appliance,"5,400"
+EMEA,270001-1,Iron,Electronic Device,65
+EMEA,270001-1,Refrigerator,Home Appliance,"6,000"
+EMEA,280001-1,Hob,Home Appliance,15
+EMEA,280001-1,Mixer,Home Appliance,"1,000"
+EMEA,280001-1,Refrigerator,Home Appliance,"7,200"
+EMEA,280001-1,TV,Home Appliance,"22,500"
+EMEA,290001-1,Refrigerator,Home Appliance,"13,000"
+EMEA,290001-1,Sunsung,Mobile,280
+EMEA,290001-1,TV,Home Appliance,"32,000"
+EMEA,290001-1,Washing Machine,Home Appliance,600
+EMEA,300001-1,Home Theater,Home Appliance,480
+EMEA,300001-1,Iron,Electronic Device,200
+EMEA,300001-1,Mixer,Home Appliance,50
+EMEA,300001-1,Refrigerator,Home Appliance,"5,000"
+EMEA,300001-1,TV,Home Appliance,"50,000"
+EMEA,310001-1,Mixer,Home Appliance,256
+EMEA,310001-1,Refrigerator,Home Appliance,"5,000"
+EMEA,320001-1,Iron,Electronic Device,35
+EMEA,320001-1,Mixer,Home Appliance,432
+EMEA,320001-1,Refrigerator,Home Appliance,"10,000"
+EMEA,320001-1,TV,Home Appliance,"24,000"
+EMEA,330001-1,Hob,Home Appliance,300
+EMEA,330001-1,Home Theater,Home Appliance,360
+EMEA,330001-1,Mixer,Home Appliance,"10,000"
+EMEA,330001-1,Refrigerator,Home Appliance,"50,000"
+EMEA,330001-1,TV,Home Appliance,"24,000"
+EMEA,340001-1,Refrigerator,Home Appliance,"10,000"
+EMEA,350001-1,Refrigerator,Home Appliance,"9,000"
+EMEA,360001-1,Food Processor,Home Appliance,60
+EMEA,360001-1,Home Theater,Home Appliance,240
+EMEA,360001-1,Refrigerator,Home Appliance,"40,000"
+EMEA,360001-1,TV,Home Appliance,"28,000"
+EMEA,370001-1,Refrigerator,Home Appliance,"1,00,000"
+EMEA,380001-1,Refrigerator,Home Appliance,"2,000"
+EMEA,380001-1,TV,Home Appliance,"3,00,000"
+EMEA,390001-1,Food Processor,Home Appliance,300
+EMEA,390001-1,Refrigerator,Home Appliance,"1,000"
+EMEA,390001-1,TV,Home Appliance,"14,000"
+EMEA,390001-1,Washing Machine,Home Appliance,72
+EMEA,400001-1,TV,Home Appliance,"13,500"
+EMEA,410001-1,Dish Washer,Home Appliance,240
+EMEA,410001-1,Food Processor,Home Appliance,
+EMEA,410001-1,Refrigerator,Home Appliance,"6,000"
+EMEA,410001-1,TV,Home Appliance,"30,000"
+EMEA,420001-1,Food Processor,Home Appliance,144
+EMEA,420001-1,TV,Home Appliance,"20,000"
+EMEA,430001-1,Refrigerator,Home Appliance,280
+EMEA,430001-1,Washing Machine,Home Appliance,32
+EMEA,440001-1,Refrigerator,Home Appliance,"1,500"
+EMEA,440001-1,TV,Home Appliance,"1,80,000"
+EMEA,450001-1,TV,Home Appliance,"9,000"
+EMEA,460001-1,Refrigerator,Home Appliance,"8,000"
+EMEA,460001-1,TV,Home Appliance,"48,000"
+EMEA,470001-1,TV,Home Appliance,"9,900"
+EMEA,480001-1,Hob,Home Appliance,800
+EMEA,480001-1,TV,Home Appliance,"9,000"
+EMEA,480001-1,Washing Machine,Home Appliance,288
+EMEA,490001-1,Hob,Home Appliance,36
+EMEA,490001-1,Washing Machine,Home Appliance,250
+EMEA,500001-1,Food Processor,Home Appliance,50
+EMEA,500001-1,Refrigerator,Home Appliance,"60,000"
+EMEA,500001-1,Smart Light,Electronic Device,"2,000"
+EMEA,500001-1,TV,Home Appliance,"20,000"
+EMEA,510001-1,Dish Washer,Home Appliance,150
+EMEA,510001-1,Refrigerator,Home Appliance,"2,000"
+EMEA,510001-1,Smart Light,Electronic Device,"60,000"
+EMEA,510001-1,TV,Home Appliance,"1,400"
+EMEA,520001-1,Refrigerator,Home Appliance,80
+EMEA,520001-1,Smart Light,Electronic Device,"1,250"
+EMEA,520001-1,TV,Home Appliance,"1,200"
+EMEA,530001-1,Refrigerator,Home Appliance,"4,000"
+EMEA,530001-1,Sewing Machine,Electronic Device,70
+EMEA,530001-1,Smart Light,Electronic Device,"1,50,000"
+EMEA,530001-1,TV,Home Appliance,"1,500"
+EMEA,540001-1,Iron,Electronic Device,75
+EMEA,540001-1,Mixer,Home Appliance,144
+EMEA,550001-1,Dish Washer,Home Appliance,"1,200"
+EMEA,550001-1,Refrigerator,Home Appliance,"1,600"
+EMEA,580001-1,Refrigerator,Home Appliance,"5,000"
+EMEA,580001-1,TV,Home Appliance,"40,000"
+EMEA,590001-1,Dryer,Electronic Device,"3,000"
+EMEA,590001-1,Roleme,Mobile,36
+EMEA,590001-1,Washing Machine,Home Appliance,600
+EMEA,600001-1,Dryer,Electronic Device,"19,200"
+EMEA,600001-1,Refrigerator,Home Appliance,340
+EMEA,600001-1,TV,Home Appliance,"13,500"
+EMEA,600001-1,Washing Machine,Home Appliance,210
+EMEA,610001-1,Dryer,Electronic Device,280
+EMEA,610001-1,Headphone,Electronic Device,600
+EMEA,610001-1,Refrigerator,Home Appliance,"1,400"
+EMEA,610001-1,Roleme,Mobile,60
+EMEA,610001-1,TV,Home Appliance,"40,000"
+EMEA,620001-1,Dryer,Electronic Device,"10,000"
+EMEA,620001-1,Mixer,Home Appliance,189
+EMEA,630001-1,Headphone,Electronic Device,"3,000"
+EMEA,630001-1,Roleme,Mobile,56
+EMEA,630001-1,Smart Light,Electronic Device,"60,000"
+EMEA,640001-1,Smart Light,Electronic Device,"80,000"
+EMEA,640001-1,Washing Machine,Home Appliance,36
+EMEA,650001-1,Refrigerator,Home Appliance,180
+EMEA,650001-1,Smart Light,Electronic Device,105
+EMEA,650001-1,TV,Home Appliance,"15,000"
+EMEA,660001-1,Smart Light,Electronic Device,"5,600"
+EMEA,660001-1,TV,Home Appliance,"58,000"
+EMEA,670001-1,Smart Light,Electronic Device,"12,000"
+EMEA,670001-1,TV,Home Appliance,"42,000"
+EMEA,680001-1,TV,Home Appliance,"68,000"
+EMEA,690001-1,Headphone,Electronic Device,"15,000"
+EMEA,690001-1,Washing Machine,Home Appliance,410
+EMEA,700001-1,Refrigerator,Home Appliance,"10,000"
+EMEA,700001-1,TV,Home Appliance,"12,000"
+EMEA,700001-1,Washing Machine,Home Appliance,336
+EMEA,710001-1,Headphone,Electronic Device,
+EMEA,710001-1,Home Theater,Home Appliance,200
+EMEA,710001-1,Refrigerator,Home Appliance,400
+EMEA,710001-1,TV,Home Appliance,"28,000"
+EMEA,730001-1,Home Theater,Home Appliance,450
+EMEA,740001-1,Food Processor,Home Appliance,50
+EMEA,740001-1,Refrigerator,Home Appliance,"20,000"
+EMEA,750001-1,Refrigerator,Home Appliance,"5,000"
+EMEA,760001-1,Home Theater,Home Appliance,"1,000"
+EMEA,760001-1,Refrigerator,Home Appliance,252
+EMEA,770001-1,Refrigerator,Home Appliance,"2,400"
+EMEA,780001-1,Hob,Home Appliance,200
+EMEA,780001-1,Refrigerator,Home Appliance,"28,000"
+EMEA,780001-1,TV,Home Appliance,"2,000"
+EMEA,800001-1,Sunma,Mobile,"35,000"
+EMEA,800001-1,Washing Machine,Home Appliance,340
+EMEA,810001-1,Refrigerator,Home Appliance,"20,000"
+EMEA,810001-1,Washing Machine,Home Appliance,490
+EMEA,820001-1,Refrigerator,Home Appliance,"4,000"
+EMEA,830001-1,Appul,Mobile,"10,000"
+EMEA,840001-1,Washing Machine,Home Appliance,120
+EMEA,850001-1,Refrigerator,Home Appliance,"1,500"
+EMEA,850001-1,Washing Machine,Home Appliance,"7,200"
+EMEA,860001-1,Refrigerator,Home Appliance,120
+EMEA,860001-1,TV,Home Appliance,"24,000"
+EMEA,870001-1,Refrigerator,Home Appliance,250
+EMEA,880001-1,Refrigerator,Home Appliance,"10,000"
+EMEA,890001-1,Microwave,Home Appliance,"8,000"
+EMEA,890001-1,Refrigerator,Home Appliance,"4,000"
+EMEA,910001-1,Refrigerator,Home Appliance,"2,000"
+EMEA,910001-1,Sewing Machine,Electronic Device,40
+EMEA,910001-1,Washing Machine,Home Appliance,195
+EMEA,920001-1,TV,Home Appliance,"16,000"
+EMEA,930001-1,Refrigerator,Home Appliance,"13,500"
+EMEA,930001-1,Sewing Machine,Electronic Device,"4,47,24,869"
+EMEA,940001-1,Appul,Mobile,"2,500"
+EMEA,940001-1,Refrigerator,Home Appliance,"20,000"
+EMEA,940001-1,Washing Machine,Home Appliance,64
+EMEA,950001-1,Dryer,Electronic Device,500
+EMEA,950001-1,TV,Home Appliance,"12,000"
+EMEA,960001-1,Iron,Electronic Device,200
+EMEA,960001-1,Refrigerator,Home Appliance,"2,000"
+EMEA,970001-1,Hob,Home Appliance,
+EMEA,970001-1,Refrigerator,Home Appliance,"36,000"
+EMEA,980001-1,Mixer,Home Appliance,"3,000"
+EMEA,980001-1,Refrigerator,Home Appliance,"3,000"
+EMEA,990001-1,Refrigerator,Home Appliance,"50,000"
