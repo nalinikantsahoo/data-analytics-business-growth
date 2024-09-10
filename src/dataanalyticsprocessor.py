@@ -1,5 +1,6 @@
 import os
 
+import numpy as np
 import pandas as pd
 
 from src.config import DEMAND_FILE_PATH, INVENTORY_FILE_PATH, PRODUCT_MASTER_FILE_PATH, SALES_FILE_PATH, \
@@ -29,7 +30,8 @@ class DataInterpreter:
         """ Clean non-numeric characters and convert columns to numeric types. """
         for col in columns:
             if col in df.columns:
-                df[col] = df[col].replace({',': ''}, regex=True)  # Remove commas
+                df[col] = df[col].replace({',': ''}, regex=True)
+                df[col].replace({' ': ''}, regex=True)# Remove commas
                 df[col] = pd.to_numeric(df[col], errors='coerce')  # Convert to numeric, coercing errors to NaN
             else:
                 log.debug(f"Warning: Column '{col}' not found in the dataframe")
@@ -120,18 +122,33 @@ class DataInterpreter:
         return excess_inventory
 
     def calculate_average_week_of_stock(self):
+        # Merge inventory and demand data
         merged_df = pd.merge(self.inventory_df, self.demand_df,
                              left_on=['region', 'product', 'plant', 'fiscal_week'],
                              right_on=['region', 'product', 'plant_code', 'fiscal_week'],
                              how='left')
 
+        # Define columns to clean
         columns_to_clean = ['inventory_amount', 'future_demand_amount']
 
+        # Clean numeric columns
         self.clean_numeric_column(merged_df, columns_to_clean)
 
-        merged_df['weeks_of_stock'] = merged_df['inventory_amount'] / merged_df['future_demand_amount']
+        # Handle zero or missing values in 'future_demand_amount'
+        merged_df['future_demand_amount'].replace(0, np.nan, inplace=True)
 
+        # Calculate weeks of stock
+        merged_df['weeks_of_stock'] = np.where(
+            merged_df['future_demand_amount'].isna(),  # If future_demand_amount is NaN
+            np.nan,  # Assign NaN instead of inf
+            merged_df['inventory_amount'] / merged_df['future_demand_amount']  # Perform the division
+        )
+
+        # Group by plant and calculate average weeks of stock
         avg_weeks_of_stock = merged_df.groupby('plant').agg({'weeks_of_stock': 'mean'}).reset_index()
+
+        # Handle plants with all NaN values
+        avg_weeks_of_stock = avg_weeks_of_stock.replace({np.nan: 0})
 
         return avg_weeks_of_stock
 
