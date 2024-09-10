@@ -71,18 +71,23 @@ class DataInterpreter:
             'final_demand_quantity', 'demand_1_weeks_before_quantity', 'demand_4_weeks_before_quantity'
         ]
 
-        self.clean_numeric_column(self.demand_df, columns_to_clean)
 
         self.demand_df.fillna(0, inplace=True)
+        self.clean_numeric_column(self.demand_df, columns_to_clean)
+        grouped_df = self.demand_df.groupby(['customer_name', 'fiscal_week']).agg(
+            final_demand_quantity=('final_demand_quantity', 'sum'),
+            demand_4_weeks_before_quantity=('demand_4_weeks_before_quantity', 'sum'),
+            demand_1_weeks_before_quantity=('demand_1_weeks_before_quantity', 'sum')
+        ).reset_index()
 
-        self.demand_df['forecast_accuracy_4_weeks'] = 100 * (
-                1 - abs(self.demand_df['demand_4_weeks_before_amount'] - self.demand_df['final_demand_amount']) /
-                self.demand_df['final_demand_amount'])
-        self.demand_df['forecast_accuracy_1_week'] = 100 * (
-                1 - abs(self.demand_df['demand_1_weeks_before_amount'] - self.demand_df['final_demand_amount']) /
-                self.demand_df['final_demand_amount'])
+        grouped_df['forecast_accuracy_4_weeks'] = 100 * (
+                1 - abs(grouped_df['demand_4_weeks_before_quantity'] - grouped_df['final_demand_quantity']) /
+                grouped_df['final_demand_quantity'])
+        grouped_df['forecast_accuracy_1_week'] = 100 * (
+                1 - abs(grouped_df['demand_1_weeks_before_quantity'] - grouped_df['final_demand_quantity']) /
+                grouped_df['final_demand_quantity'])
 
-        return self.demand_df[['fiscal_week', 'customer_name', 'forecast_accuracy_4_weeks', 'forecast_accuracy_1_week']]
+        return grouped_df[['fiscal_week', 'customer_name', 'forecast_accuracy_4_weeks', 'forecast_accuracy_1_week']]
 
     def calculate_ontime_shipments(self):
         columns_to_clean = ['ontime_delivery', 'no_of_delivery']
