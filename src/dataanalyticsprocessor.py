@@ -106,18 +106,26 @@ class DataInterpreter:
         return ontime_shipments
 
     def identify_excess_inventory(self):
+        # Merge inventory and demand data
         merged_df = pd.merge(self.inventory_df, self.demand_df,
                              left_on=['region', 'product', 'plant', 'plant_country', 'fiscal_week'],
                              right_on=['region', 'product', 'plant_code', 'plant_country', 'fiscal_week'],
                              how='left')
 
+        # Define columns to clean
         columns_to_clean = ['inventory_amount', 'future_demand_amount']
 
+        # Clean numeric columns
         self.clean_numeric_column(merged_df, columns_to_clean)
 
+        # Calculate excess inventory
         merged_df['excess_inventory'] = merged_df['inventory_amount'] - merged_df['future_demand_amount']
 
-        excess_inventory = merged_df[merged_df['excess_inventory'] > 0][['product', 'plant', 'excess_inventory']]
+        # Filter rows where excess inventory is greater than 0
+        filtered_df = merged_df[merged_df['excess_inventory'] > 0]
+
+        # Group by product and plant, then aggregate excess inventory
+        excess_inventory = filtered_df.groupby(['product', 'plant']).agg({'excess_inventory': 'sum'}).reset_index()
 
         return excess_inventory
 
